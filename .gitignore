@@ -43,3 +43,5 @@ pnp/cad/CHA/**/*.svg
 # hides autobom experimentation
 autobom.json
 bom.json
+
+*.FCBak
